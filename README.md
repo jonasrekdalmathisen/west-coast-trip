@@ -49,3 +49,7 @@ Every popup has an **Add to plan** button. Saved items appear in the **My Plan**
 - [leaflet.extras](https://github.com/bhaskarvk/leaflet.extras)
 - [htmlwidgets](https://www.htmlwidgets.org/)
 - Tiles: OpenStreetMap · Esri WorldTopo · Esri Satellite
+
+---
+
+> 🤖 Built with assistance from [Claude](https://claude.ai) (Anthropic) — itinerary research, R code, map content, and deployment.
